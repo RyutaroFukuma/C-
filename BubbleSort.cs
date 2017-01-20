@@ -1,5 +1,5 @@
 ///<summary>
-///バブルソート
+/// バブルソート
 ///M</summary>
 /// <param name="a">対象の配列</param>
 
